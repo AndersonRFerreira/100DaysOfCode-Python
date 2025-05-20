@@ -142,6 +142,91 @@ Compromisso: Programar por pelo menos 1 hora por dia durante 100 dias.
 - **Dia 100**: Compartilhar sua jornada 🎉
 
 ---
+🚀 20 Projetos Extras com Python
+
+👨‍💻 Utilitários e Scripts
+
+1. 🗂️ Organizador de fotos por data
+
+Escaneia pastas e organiza imagens com base na data de criação.
+
+2. 📷 Leitor de QR Code
+
+Escaneia QR codes usando a webcam ou imagens com pyzbar ou OpenCV.
+
+3. 😊 Reconhecimento facial
+
+Detecta e identifica rostos em imagens com face_recognition.
+
+4. 😂 Gerador de memes
+
+Adiciona textos personalizados em imagens usando a biblioteca Pillow.
+
+5. 📝 App de anotações com GUI
+
+Interface gráfica simples para criar e salvar notas locais.
+
+6. ✅ App de hábitos / rastreador diário
+
+Armazena hábitos e mostra estatísticas simples (com CSV ou SQLite).
+
+7. 🐍 Jogo da cobrinha (Snake)
+
+Recriação do clássico jogo usando a biblioteca pygame.
+
+8. ⏱️ Timer Pomodoro
+
+Temporizador de produtividade com ciclos de foco e pausa.
+
+9. 🎲 Roleta de sorteios
+
+Sorteia nomes, números ou itens de uma lista.
+
+10. 📅 Gerador de calendário
+
+Cria calendários mensais com eventos personalizados em PDF ou imagem.
+
+📦 Dados, API e Automação
+
+11. 📦 Calculadora de frete por CEP
+
+Estima o valor do frete com base no CEP usando APIs.
+
+12. 📈 App de cotações da bolsa
+
+Exibe cotações de ações e criptomoedas em tempo real com APIs públicas.
+
+13. 📄 Conversor de PDF para texto
+
+Extrai o conteúdo de arquivos .pdf com PyPDF2 ou pdfplumber.
+
+14. 🎨 Conversor de imagem para ASCII Art
+
+Transforma imagens em arte feita com caracteres de texto.
+
+15. 📧 Bot de envio de e-mails
+
+Envia mensagens automáticas com relatórios ou alertas.
+
+16. 🧮 Simulador de empréstimos
+
+Calcula parcelas, juros e cronograma de pagamento.
+
+17. 🔢 Validador de CPF/CNPJ
+
+Verifica se os números inseridos são válidos segundo o padrão brasileiro.
+
+18. 📇 Agenda de contatos com banco de dados
+
+CRUD completo com interface e armazenamento em SQLite.
+
+19. 🎙️ Reconhecimento de voz
+
+Converte fala em texto com speech_recognition ou API do Google.
+
+20. 📊 Leitor de planilhas Excel com filtros
+
+Abre .xlsx, permite explorar e filtrar dados com pandas e streamlit ou GUI.
 
 ✅ **Você terminou os 100 Dias de Código com Python! Parabéns!**
 
